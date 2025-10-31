@@ -1,4 +1,5 @@
-# Boruta
-Because Operators Really Use Tape and Adrenaline
+# BORUTA
+Because Operators Really Use Tapechain and Adrenaline
+Bo Operatorzy Rzeczywiście Używają Taśmy i Adrenaliny
 
-A set of SST-ready ops tools. 
+A unified SST-first tapechain.
